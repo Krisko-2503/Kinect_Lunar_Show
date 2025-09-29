@@ -1,0 +1,1 @@
+NOTE: TO RUN THE PROGRAM YOU HAVE TO DOWNLOAD Kinect SDK 1.8 and kinect developer toolkit 1.8!
